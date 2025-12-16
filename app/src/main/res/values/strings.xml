@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VotingApp</string>
+    <string name="copyright">Copyright (c) 2018 AlvaStudio. All rights reserved.</string>
+    <string name="info">Полная информация о кандидате...</string>
+    <string name="party">Партия</string>
+    <string name="full_name">Иван Иванович</string>
+    <string name="second_name">Иванов</string>
+    <string name="back">Назад</string>
+</resources>
